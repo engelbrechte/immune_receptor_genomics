@@ -11,11 +11,11 @@ Modifications to light chain loci:
 
 2) chr2, which includes the IGK locus, was modified to include a common insertion in the distal IGK region that includes the gene "IGKV1-NL1" - described in our preprint: https://www.biorxiv.org/content/10.1101/2023.10.23.563321v2.full
 
+
 Modifications to heavy chain loci (igh, ighc):
-
-No modifications to igh were made in this repo relative to the igh reference at https://github.com/oscarlr/IGenotyper. For a description of this igh reference, see our publications:
-i) https://www.frontiersin.org/articles/10.3389/fimmu.2020.02136/full
-ii) https://www.nature.com/articles/s41467-023-40070-x
-
-which describe the igh franken reference.
-The ighc reference sequence is from CHM13v2.0, without modification.
+   No modifications to igh were made in this repo relative to the igh reference at https://github.com/oscarlr/IGenotyper. For a description of this igh reference, see our publications:
+   i) https://www.frontiersin.org/articles/10.3389/fimmu.2020.02136/full
+   ii) https://www.nature.com/articles/s41467-023-40070-x
+   which describe the igh franken reference.
+   
+   The ighc reference sequence is from CHM13v2.0, without modification.
