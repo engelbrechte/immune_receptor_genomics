@@ -20,4 +20,4 @@ Modifications to heavy chain loci (igh, ighc):
    
    The ighc reference sequence is from CHM13v2.0, without modification.
 
-#to-do: add ancestry-informative markers BED file and "non-IGL_regions_to_mask" bed file
+#to-do: add ancestry-informative markers BED file and "non-IGL_regions_to_mask" BED file
