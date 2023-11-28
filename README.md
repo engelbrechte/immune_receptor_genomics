@@ -9,8 +9,8 @@ Modifications to light chain loci:
    28 kb of sequence (chr22:23,317,584-23,345,947) is from a HPRC haplotype from sample HG00621, which includes a 16093 bb insertion relative to the CHM13v2.0 reference, reflecting 3 additional copies of IGLJ-C3.
    To lift-over a chr22 coordinate from CHM13v2.0 to the chr22 in the reference.fasta in this repo, use the formula: "if start_coord > 23324706, then add 16093".
 
-2) chr2, which includes the IGK locus, was modified to include a common insertion in the distal IGK region that includes the gene "IGKV1-NL1" - described in our preprint: https://www.biorxiv.org/content/10.1101/2023.10.23.563321v2.full
-
+2) chr2, which includes the IGK locus, was modified to include a common ~24 kb insertion in the distal IGK region that includes the gene "IGKV1-NL1" - described in our preprint: https://www.biorxiv.org/content/10.1101/2023.10.23.563321v2.full
+To lift-over from hg38 to the IGK locus in reference.fasta in this repo, use the formula "if start_coord > 90225183, add 24729"
 
 Modifications to heavy chain loci (igh, ighc):
    No modifications to igh were made in this repo relative to the igh reference at https://github.com/oscarlr/IGenotyper. For a description of this igh reference, see our publications:
