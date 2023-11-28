@@ -2,7 +2,8 @@
 Tools and human references for IG genomics. 
 
 Notes on the reference.fasta
-This reference file is a modified version of the reference.fasta downloaded from the IGenotyper github page (https://github.com/oscarlr/IGenotyper) November 2023.
+
+   This reference file is a modified version of the reference.fasta downloaded from the IGenotyper github page (https://github.com/oscarlr/IGenotyper) November 2023.
 
 Modifications to light chain loci:
 1) chr22 was exchanged for T2T (CHM13v2.0) chr22. The IGL locus is on chromosome 22.
