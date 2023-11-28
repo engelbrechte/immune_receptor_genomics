@@ -7,7 +7,7 @@ Notes on the reference.fasta
 
 Modifications to light chain loci:
 1) chr22 was exchanged for T2T (CHM13v2.0) chr22. The IGL locus is on chromosome 22.
-   28 kb of sequence (chr22:23,317,584-23,345,947) is from a HPRC haplotype from sample HG00621, which includes a 16093 bb insertion relative to the CHM13v2.0 reference, reflecting 3 additional copies of IGLJ-C3.
+   ~28.3 kb of sequence (chr22:23,317,584-23,345,947) is from a HPRC haplotype from sample HG00621, which includes a 16093 bb insertion relative to the CHM13v2.0 reference, reflecting 3 additional copies of IGLJ-C3.
    To lift-over a chr22 coordinate from CHM13v2.0 to the chr22 in the reference.fasta in this repo, use the formula: "if start_coord > 23324706, then add 16093".
 
 2) chr2, which includes the IGK locus, was modified to include a common ~24 kb insertion in the distal IGK region that includes the gene "IGKV1-NL1" - described in our preprint: https://www.biorxiv.org/content/10.1101/2023.10.23.563321v2.full
