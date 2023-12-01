@@ -1,6 +1,8 @@
 # immune_receptor_genomics
 Tools and human references for IG genomics. 
 
+Annotations produced by digger, by William Lees (https://github.com/williamdlees/digger)
+
 Notes on the reference.fasta
 
    This reference file is a modified version of the reference.fasta downloaded from the IGenotyper github page (https://github.com/oscarlr/IGenotyper) November 2023.
